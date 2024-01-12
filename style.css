@@ -215,7 +215,15 @@ main {
 
 
 
-
+footer {
+  background: rgba(255, 144, 14, 0.1);
+  width: 1440px;
+  margin: auto;
+  border-radius: 5px;
+  padding: 30px 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
 
 
 
