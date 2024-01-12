@@ -254,7 +254,7 @@ footer {
   .teams-img-container {
     grid-template-columns: 1fr;
   }
-  .teams-content,
+  
   .facts-card-container {
     padding: 0px 20px;
   }
@@ -280,9 +280,13 @@ footer {
   
 .ten-years-badge{
   position: static;
-  max-width: 290px;
+  max-width: 280px;
   margin: auto;
   padding: 10px;
+}
+
+.ten-years-badge h2 {
+  font-size: 3rem;
 }
 }
 
